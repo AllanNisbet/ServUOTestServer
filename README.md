@@ -1,16 +1,8 @@
-# [ServUO]
-
-[![Travis Build Status](https://travis-ci.org/ServUO/ServUO.svg)](https://travis-ci.org/ServUO/ServUO)
-
-ServUO is a community driven Ultima Online Server Emulator written in C#.
+# [TESTuoServer]
 
 ### Website
 
-https://www.servuo.com
-
 ### Installation
-
-Getting started with ServUO is quite easy.
 
 #### Windows
 
@@ -28,19 +20,7 @@ Just run `Compile.WIN.bat` and follow the prompts. This script will compile both
 
 A quick start guide is available at our forums. Follow this link: [Quickstart]
 
-### Development
-
-Want to contribute? Great!
-
-You can submit a pull request at any time and we will review it asap!
-
 License
 ----
 
 GPL v2
-
-
-
-
-   [ServUO]: <https://www.servuo.com>
-   [Quickstart]: <https://www.servuo.com/tutorials/getting-started-with-servuo.2/>
